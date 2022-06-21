@@ -62,4 +62,12 @@ Link: https://www.physionet.org/content/voiced/1.0.0/
 
 Time-series microphone recordings of subjects with voice diorders and without voice disorders. 
 
+_Agricultural crop classification_
+
+Type: muticlass image classification
+
+Link: https://mlhub.earth/data/idiv_asia_crop_type
+
+Satellite images containing different crops with corresponding ground truth labels. Dataset was created to analyze things like water resource allocation and food security.
+
 ### Nicholas 
