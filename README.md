@@ -32,6 +32,13 @@ Link: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
 This is probably too well-studied, but seems like an interesting way to combine images with structured data for classification (sex, age, skin area, etc.)
 
+_Cartoon image classification_
+
+Type: multiclass image classification
+
+Link: https://www.kaggle.com/datasets/volkandl/cartoon-classification
+
+Determination of cartoon image source (10 total) based on image data. Poking through some of the folders, it looks like many of the frames given might be duplicates or very similar, so judging performance might be difficult.
 
 
 
