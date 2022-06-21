@@ -22,7 +22,7 @@ Type: Binary classification
 
 https://www.kaggle.com/datasets/hobako1993/sp1-factor-binding-sites-on-chromosome1
 
-Using a 14-nucleotide sequence, determine whether the DNA region is a binding site for sp1. Likely needs to be split into 14 categorical features, that then need to be one-hot encoded (but how do we keep the ordering then? Similar to week 2 ideas with basis expansions? Maybe this would get learned regardless without)
+Using a 14-nucleotide sequence, determine whether the DNA region is a binding site for sp1. Likely needs to be split into 14 categorical features, that then need to be one-hot encoded (but how do we keep the ordering then? Similar to week 2 ideas with basis expansions with neighboring nucleotides? Maybe this would get learned regardless without)
 
 _Skin cancer HAM10000_
 
