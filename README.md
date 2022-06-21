@@ -46,6 +46,20 @@ Determination of cartoon image source (10 total) based on image data. Poking thr
 
 ### Isaac
 
+_Breast cancer classifaction in histopathology images_
 
+Type: binary image classification
+
+Link: https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
+
+High res images of breast biopsies cropped into smaller patches with corresponding cancer/no cancer label. Not sure how professor will view it since it's a kaggle competion with about 100 notebooks.
+
+_Pathologic voice disorder classification_
+
+Type: multiclass or binary audio classification
+
+Link: https://www.physionet.org/content/voiced/1.0.0/
+
+Time-series microphone recordings of subjects with voice diorders and without voice disorders. 
 
 ### Nicholas 
