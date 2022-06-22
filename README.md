@@ -71,3 +71,21 @@ Link: https://mlhub.earth/data/idiv_asia_crop_type
 Satellite images containing different crops with corresponding ground truth labels. Dataset was created to analyze things like water resource allocation and food security.
 
 ### Nicholas 
+
+https://www.kaggle.com/datasets/prasertk/inflation-interest-and-unemployment-rate
+
+50 years+ of historical inflaction, interest and unemployment rates by country
+
+Has a variety of different explanatory variables related to inflation across countries, predicting inflation rate categories could be interesting.
+
+https://www.kaggle.com/datasets/marikastewart/employee-turnover
+
+This database is from a large US company (no name given for privacy reasons). The management department is worried about the relatively high turnover. They want to find ways to reduce the number of employees leaving the company and to better understand the situation, which employees are more likely to leave, and why.
+
+https://www.kaggle.com/datasets/mrisdal/union-membership-coverage
+
+The United States Department of Labor tells us that "Labor Day, the first Monday in September, is a creation of the labor movement and is dedicated to the social and economic achievements of American workers. It constitutes a yearly national tribute to the contributions workers have made to the strength, prosperity, and well-being of our country."
+
+This database of state-level union membership and coverage from 1983 to 2015 was originally compiled by Barry Hirsch (Andrew Young School of Policy Studies, Georgia State University) and David Macpherson (Department of Economics, Trinity University). The database, available at unionstats.com provides private and public sector labor union membership, coverage, and density estimates compiled from the monthly household Current Population Survey (CPS) using BLS methods.
+
+Use of this data requires citation of the following paper which also includes a description of how the database was created: Barry T. Hirsch and David A. Macpherson, "Union Membership and Coverage Database from the Current Population Survey: Note," Industrial and Labor Relations Review, Vol. 56, No. 2, January 2003, pp. 349-54. (PDF).
